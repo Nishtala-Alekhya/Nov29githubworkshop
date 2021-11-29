@@ -8,9 +8,9 @@ Day-1 git and github workshop
 ###### h6
 *Italic fontstyle*
 
-**Bold Fontstyle**
+**Bold Fontstyle***
 
-*** Both Bold and Italic***
+***Both Bold and Italic***
 
 [Geeks For Geeks](https://www.geeksforgeeks.org/)
 
