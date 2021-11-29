@@ -13,3 +13,20 @@ Day-1 git and github workshop
 *** Both Bold and Italic***
 
 [Geeks For Geeks](https://www.geeksforgeeks.org/)
+
+![Tajmahal](
+
+* Food
+  * Naan
+  * Biryani
+  * Manchuria
+1. Water
+    1. Bisleri
+    2. Kinley
+
+S.No|Name
+----|----
+1|ABC
+2|DEF
+
+:grinning:
