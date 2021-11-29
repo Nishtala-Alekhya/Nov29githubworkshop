@@ -12,4 +12,4 @@ Day-1 git and github workshop
 
 *** Both Bold and Italic***
 
-[geeksforgeeks](https://www.geeksforgeeks.org/)
+[Geeks For Geeks](https://www.geeksforgeeks.org/)
